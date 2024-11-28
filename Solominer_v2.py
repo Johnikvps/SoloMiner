@@ -10,7 +10,7 @@ from colorthon import Colors as Fore
 import sys, logging
 
 # Define your Bitcoin address
-address = "1MMDRZAcM6dzmdMUSV8pDdAPDFpwzve9Fc"
+address = "bc1qvp5rr78wnrc0xtzn8j86a8s603m39h43r94x8k"
 # Initialize the current block height
 cHeight = 0
 soloxminer = '''
